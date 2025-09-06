@@ -119,7 +119,7 @@ Waveform screenshots:
   ![TLC](Testbench%20and%20Simulation/TLC.PNG)
 
 - **Full Cycle (No Pedestrian Request):**  
-  ![Full Cycle TLC](Testbench%20and%20Simulation/Full_Cycle_TLC.PNG)
+  ![Full Cycle TLC](Testbench%20and%20Simulation/Full_Cylce_TLC.PNG)
 
 - **Full Cycle with Pedestrian Request:**  
   ![Full Cycle with Ped Request](Testbench%20and%20Simulation/Full_Cycle_Ped_Request_TLC.PNG)
