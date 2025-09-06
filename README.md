@@ -113,16 +113,16 @@ Time | Ped | N(R,Y,G) | S(R,Y,G) | E(R,Y,G) | W(R,Y,G)
 
 ## 📊 Simulation Results (waveform screenshots)
 
-Waveform screenshots (place these in the same folder as the README or update paths accordingly):
+Waveform screenshots:
 
 - **Basic Traffic Light Cycle:**  
-  ![TLC](TLC.PNG)
+  ![TLC](Testbench%20and%20Simulation/TLC.PNG)
 
 - **Full Cycle (No Pedestrian Request):**  
-  ![Full Cycle TLC](Full_Cycle_TLC.PNG)
+  ![Full Cycle TLC](Testbench%20and%20Simulation/Full_Cycle_TLC.PNG)
 
 - **Full Cycle with Pedestrian Request:**  
-  ![Full Cycle with Ped Request](Full_Cycle_Ped_Request_TLC.PNG)
+  ![Full Cycle with Ped Request](Testbench%20and%20Simulation/Full_Cycle_Ped_Request_TLC.PNG)
 
 ---
 
